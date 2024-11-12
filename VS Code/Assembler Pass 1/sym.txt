@@ -1,0 +1,9 @@
+-------------------
+    Symbol Table
+-------------------
+Symbol    Address
+  READ       300
+  LOOP       300
+  A       306
+  B       307
+  C       309
